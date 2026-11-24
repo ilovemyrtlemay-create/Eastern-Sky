@@ -1,0 +1,10 @@
+{
+  "name": "Selah Reels — Cinematic Gospel Reel Studio",
+  "description": "Create, voice, score, and export the 9:16 vertical cinematic reel 'Why Didn't Anyone Tell Me?' for Instagram Reels, TikTok, and YouTube Shorts.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
